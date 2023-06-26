@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m @gregorio-clara
-- 🧑🏾‍💻 I’m currently working at Clara
+- 🧑🏾‍💻 I’m currently working at [Clara](https://github.com/clara-team)
 - 🔮 I'm part of the Data Science team
 
 <!---
