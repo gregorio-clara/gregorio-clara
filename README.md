@@ -1,6 +1,6 @@
 - 👋🏽 Hi, I’m @gregorio-clara
 - 🧑🏾‍💻 I’m currently working at [Clara](https://github.com/clara-team)
-- 🔮 I'm part of the Data Science team
+- 🔮 I'm part of the Machine Learning Engineering team
 
 <!---
 gregorio-clara/gregorio-clara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
